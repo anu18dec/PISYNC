@@ -75,7 +75,7 @@ npm start
 ```json
 {
     "device_id": "device_12345",
-    "timestamp": "2025-05-07T10:30:00Z", // Optional, defaults to current time
+    "timestamp": "2025-05-07T10:30:00Z",
     "total_files_synced": 42,
     "total_errors": 2,
     "internet_speed": 5.3
